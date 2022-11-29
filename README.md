@@ -28,6 +28,7 @@ Please replace in the code the font indicated in the Figma file with the Roboto 
 
 ### Notes
 
+- We expect you to take around 4 hours but do not worry about time. We can understand if you don’t complete every single piece in the design, if what you deliver is very good quality.
 - You can choose any technology stack to implement this assignment. We will consider exclusively the quality of your project (technology and product-wise) to evaluate your work.
 - We are not expecting to get a 100 on the PageSpeed score. However, we do expect some considerations to get at least a 50.
 - We expect some essential documentation if your code can be run locally.
