@@ -9,7 +9,8 @@ https://www.figma.com/file/TcZB6BRNWWWQhOZzHlWd9d/HQ-Challenge?node-id=0%3A1&t=m
 
 HQ will provide you with a design mockup file, and we'll need you to build those as close as possible. You'll also need to implement basic responsive using your judgment.
 
-Please replace in the code the font indicated in the Figma file with the Roboto from Google.
+Please replace in the code the font indicated in the Figma file with the Roboto from Google:
+https://fonts.google.com/specimen/Roboto
 
 ## How to work on this challenge
 
