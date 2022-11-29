@@ -19,7 +19,7 @@ HQ will provide you with a design mockup file, and we'll need you to build those
 - Semantic HTML
 - Code as close as possible to pixel perfect
 - We'll run your code into PageSpeed.
-- How clean and organized your code is
+- How clean and organized your code is.
 
 ### Notes
 
