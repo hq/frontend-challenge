@@ -17,8 +17,12 @@ HQ will provide you with a design mockup file, and we'll need you to build those
 
 - Semantic HTML
 - Code as close as possible to pixel perfect
+- We'll run your code into PageSpeed.
 - How clean and organized your code is
 
 ### Notes
 
+- You can use Google Fonts.
 - You can choose any technology stack to implement this assignment. We will consider exclusively the quality of your project (technology and product-wise) to evaluate your work.
+- We are not expecting to get a 100 on the PageSpeed score. However, we do expect some considerations to get at least a 50.
+- We expect some essential documentation if your code can be run locally.
